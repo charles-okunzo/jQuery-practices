@@ -1,0 +1,17 @@
+#walrus-showing{
+  display: none
+  ;
+}
+.clickable, .click-me{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover{
+  text-decoration: underline;
+}
+
+.bg-green{
+  background-color: green
+  ;
+}
